@@ -1,0 +1,11 @@
+node_modules/
+.venv/
+.remotion/
+.env*
+build/
+out/
+public/audio/
+public/fonts/
+__pycache__/
+*.pyc
+.DS_Store

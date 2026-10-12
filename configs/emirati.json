@@ -1,0 +1,40 @@
+{
+  "voice": null,
+  "fps": 30,
+  "lead_seconds": 0.2,
+  "tail_seconds": 0.4,
+  "min_scene_seconds": 4,
+  "dialect": "ae",
+  "brand": {
+    "name": "DAR CONCEPT",
+    "category": "HOME / DESIGN STUDY",
+    "logo": "assets/property-logo.svg",
+    "background": "#F4EEE5",
+    "ink": "#343D3A",
+    "accent": "#94642C"
+  },
+  "notice": "FICTIONAL HOME / NOT A LISTING",
+  "scenes": [
+    {
+      "id": "welcome",
+      "script": "تخيل بيت ترتاح فيه، من أول ما تدخل.",
+      "title": "مساحة\nترتاح فيها",
+      "caption": "تصور خيالي لبيت بغرفتي نوم.",
+      "image": "assets/property-exterior.svg"
+    },
+    {
+      "id": "layout",
+      "script": "صالة مفتوحة وغرفتين نوم، بتوزيع واضح وبسيط.",
+      "title": "غرفتين\nوصالة مفتوحة",
+      "caption": "مخطط توضيحي غير مرسوم بمقياس.",
+      "image": "assets/property-plan.svg"
+    },
+    {
+      "id": "consider",
+      "script": "شوف التصور، وحدد التفاصيل اللي تناسبك قبل أي زيارة.",
+      "title": "التفاصيل\nتبدأ منك",
+      "caption": "فكرة للإلهام، وليست عرضا للبيع.",
+      "image": "assets/property-living.svg"
+    }
+  ]
+}

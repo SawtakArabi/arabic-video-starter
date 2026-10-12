@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800">
+  <title>Break a task into three small scheduled steps</title>
+  <rect width="1000" height="800" fill="#DEE8F2"/>
+  <path d="M205 600H430V430H640V260H850" fill="none" stroke="#B5C8DB" stroke-width="26" stroke-linejoin="round"/>
+  <g fill="#FFFCF5" stroke="#21344A" stroke-width="6">
+    <rect x="100" y="415" width="250" height="180" rx="24"/>
+    <rect x="390" y="255" width="250" height="180" rx="24"/>
+    <rect x="680" y="95" width="250" height="180" rx="24"/>
+  </g>
+  <g fill="#B24B28"><circle cx="153" cy="460" r="18"/><circle cx="443" cy="300" r="18"/><circle cx="733" cy="140" r="18"/></g>
+  <g stroke="#879FB7" stroke-width="12" stroke-linecap="round">
+    <path d="M143 520H290M143 551H248M433 360H580M433 391H538M723 200H870M723 231H828"/>
+  </g>
+  <circle cx="760" cy="575" r="112" fill="#B24B28"/>
+  <circle cx="760" cy="575" r="87" fill="#FFFCF5"/>
+  <path d="M760 512V575L802 598" fill="none" stroke="#21344A" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="760" cy="575" r="9" fill="#21344A"/>
+</svg>

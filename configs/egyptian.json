@@ -1,0 +1,40 @@
+{
+  "voice": null,
+  "fps": 30,
+  "lead_seconds": 0.2,
+  "tail_seconds": 0.4,
+  "min_scene_seconds": 4,
+  "dialect": "eg-cairene",
+  "brand": {
+    "name": "KHOTWA",
+    "category": "ONE STEP / AT A TIME",
+    "logo": "assets/planner-logo.svg",
+    "background": "#EEF3F8",
+    "ink": "#21344A",
+    "accent": "#B24B28"
+  },
+  "notice": "KHOTWA / FICTIONAL PLANNER",
+  "scenes": [
+    {
+      "id": "choose",
+      "script": "عندك مهام كتير؟ اختار أهم حاجة، وابدأ بيها.",
+      "title": "ابدأ بحاجة\nواحدة",
+      "caption": "اختار أهم مهمة في يومك.",
+      "image": "assets/planner-priority.svg"
+    },
+    {
+      "id": "split",
+      "script": "قسم المهمة لخطوات صغيرة. اكتب أول خطوة، وحدد لها وقت.",
+      "title": "قسمها\nلخطوات",
+      "caption": "خطوة صغيرة، في وقت محدد.",
+      "image": "assets/planner-steps.svg"
+    },
+    {
+      "id": "review",
+      "script": "كل ما تخلص خطوة، علم عليها. وفي آخر اليوم، شوف إنت عملت إيه.",
+      "title": "شوف إنت\nأنجزت إيه",
+      "caption": "جرب الخطوات التلاتة على ورقة.",
+      "image": "assets/planner-review.svg"
+    }
+  ]
+}

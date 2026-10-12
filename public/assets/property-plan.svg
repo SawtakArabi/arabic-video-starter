@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800">
+  <title>Concept plan showing two bedrooms and an open living area, not to scale</title>
+  <rect width="1000" height="800" fill="#E8DFCD"/>
+  <rect x="155" y="85" width="690" height="640" fill="#FFFBF2" stroke="#343D3A" stroke-width="14"/>
+  <g fill="#DFD3BD"><rect x="167" y="97" width="320" height="258"/><rect x="513" y="97" width="320" height="258"/></g>
+  <path d="M500 90V365M155 365H340M420 365H615M695 365H845M355 500V725" fill="none" stroke="#343D3A" stroke-width="12"/>
+  <g fill="#F7F1E5" stroke="#94642C" stroke-width="6"><rect x="228" y="152" width="195" height="167" rx="9"/><rect x="578" y="152" width="195" height="167" rx="9"/></g>
+  <g fill="#B5986E"><rect x="242" y="166" width="72" height="40" rx="6"/><rect x="333" y="166" width="72" height="40" rx="6"/><rect x="592" y="166" width="72" height="40" rx="6"/><rect x="683" y="166" width="72" height="40" rx="6"/></g>
+  <path d="M228 222H423M578 222H773" stroke="#94642C" stroke-width="4"/>
+  <path d="M340 365V285Q420 285 420 365M615 365V285Q695 285 695 365" fill="none" stroke="#B5986E" stroke-width="4"/>
+  <path d="M190 425H310V670H190Z" fill="#C3C9BA"/>
+  <g fill="none" stroke="#617360" stroke-width="4"><circle cx="225" cy="466" r="17"/><circle cx="275" cy="466" r="17"/><rect x="210" y="555" width="82" height="67" rx="9"/></g>
+  <rect x="570" y="432" width="200" height="80" rx="15" fill="#617360"/>
+  <rect x="570" y="505" width="68" height="110" rx="12" fill="#617360"/>
+  <rect x="665" y="546" width="80" height="95" rx="28" fill="#B5986E"/>
+  <path d="M470 725H560" stroke="#FFFBF2" stroke-width="18"/>
+  <path d="M470 725V635Q560 635 560 725" fill="none" stroke="#B5986E" stroke-width="4"/>
+  <path d="M245 86H400M595 86H750" stroke="#8BADA5" stroke-width="10"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800">
+  <title>Review completed steps and one remaining task</title>
+  <rect width="1000" height="800" fill="#DEE8F2"/>
+  <rect x="165" y="120" width="575" height="560" rx="30" fill="#B8CADB"/>
+  <rect x="140" y="95" width="575" height="560" rx="30" fill="#FFFCF5"/>
+  <g fill="#21344A"><rect x="205" y="180" width="62" height="62" rx="12"/><rect x="205" y="325" width="62" height="62" rx="12"/></g>
+  <g fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><path d="M217 210L232 225L256 194M217 355L232 370L256 339"/></g>
+  <rect x="205" y="470" width="62" height="62" rx="12" fill="none" stroke="#A9B8C8" stroke-width="8"/>
+  <g stroke="#879FB7" stroke-width="14" stroke-linecap="round"><path d="M315 196H625M315 232H515M315 341H625M315 377H515M315 486H625M315 522H480"/></g>
+  <circle cx="744" cy="525" r="147" fill="#B24B28"/>
+  <circle cx="744" cy="525" r="119" fill="none" stroke="#E8AD8D" stroke-width="3"/>
+  <path d="M673 526L724 577L818 474" fill="none" stroke="#FFFCF5" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M768 243L785 275M849 306L881 296M660 229L656 196" stroke="#B24B28" stroke-width="12" stroke-linecap="round"/>
+</svg>

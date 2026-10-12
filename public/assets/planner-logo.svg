@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 64" fill="none">
+  <title>Khotwa step mark</title>
+  <path d="M8 52H52V36H96V20H140V8H172" stroke="#21344A" stroke-width="10" stroke-linejoin="round"/>
+  <circle cx="28" cy="20" r="10" fill="#B24B28"/>
+</svg>

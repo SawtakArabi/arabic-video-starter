@@ -1,0 +1,26 @@
+{
+  "name": "sawtak-arabic-video-starter",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "studio": "remotion studio src/index.tsx",
+    "render": "remotion render src/index.tsx ArabicAd --codec=h264 --pixel-format=yuv420p --concurrency=1 --overwrite=false",
+    "still": "remotion still src/index.tsx ArabicAd",
+    "typecheck": "tsc --noEmit",
+    "test": "python3 -m unittest discover -s tests -v"
+  },
+  "dependencies": {
+    "@fontsource/noto-sans-arabic": "5.3.0",
+    "@remotion/cli": "4.0.534",
+    "@remotion/fonts": "4.0.534",
+    "@remotion/media": "4.0.534",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "remotion": "4.0.534"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "typescript": "7.0.2"
+  },
+  "license": "MIT"
+}

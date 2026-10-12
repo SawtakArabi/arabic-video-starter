@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800">
+  <title>Illustrated living room for the fictional home concept</title>
+  <rect width="1000" height="800" fill="#E8DFCD"/>
+  <rect y="570" width="1000" height="230" fill="#C9BDA5"/>
+  <rect x="540" y="115" width="265" height="330" fill="#94ABA1" stroke="#F8F3E9" stroke-width="20"/>
+  <path d="M672 115V445M540 275H805" stroke="#F8F3E9" stroke-width="12"/>
+  <rect x="155" y="190" width="195" height="175" fill="#F8F3E9"/>
+  <path d="M175 340L252 215L330 340Z" fill="#B5986E"/>
+  <ellipse cx="500" cy="654" rx="330" ry="94" fill="#F3EBDD"/>
+  <rect x="175" y="421" width="440" height="145" rx="32" fill="#617360"/>
+  <rect x="143" y="490" width="505" height="125" rx="24" fill="#51654F"/>
+  <path d="M198 613V644M589 613V644" stroke="#343D3A" stroke-width="16"/>
+  <rect x="215" y="445" width="94" height="91" rx="18" fill="#D2B47E"/>
+  <rect x="455" y="445" width="94" height="91" rx="18" fill="#C3C9BA"/>
+  <ellipse cx="551" cy="625" rx="125" ry="44" fill="#94642C"/>
+  <path d="M474 638V691M625 638V691" stroke="#343D3A" stroke-width="12"/>
+  <path d="M795 572V387M795 483L746 431M795 454L841 405" stroke="#617360" stroke-width="18" stroke-linecap="round"/>
+  <path d="M745 559H845L828 650H762Z" fill="#B5986E"/>
+</svg>

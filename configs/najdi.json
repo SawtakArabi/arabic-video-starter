@@ -1,0 +1,40 @@
+{
+  "dialect": "saudi-najdi",
+  "voice": null,
+  "fps": 30,
+  "lead_seconds": 0.2,
+  "tail_seconds": 0.4,
+  "min_scene_seconds": 4,
+  "brand": {
+    "name": "LUMA",
+    "logo": "assets/logo.svg",
+    "background": "#F3EDE2",
+    "ink": "#163B35",
+    "accent": "#C66342",
+    "category": "EVERYDAY / OBJECTS"
+  },
+  "scenes": [
+    {
+      "id": "opening",
+      "script": "وسط زحمة اليوم، خذ لك لحظة هادية مع كوب لوما.",
+      "title": "وقت صغير\nلنفسك",
+      "caption": "كوب لوما الخزفي، للحظات الهادئة.",
+      "image": "assets/mug-1.svg"
+    },
+    {
+      "id": "detail",
+      "script": "لون دافي وتفاصيل بسيطة، تخلي قهوتك أحلى.",
+      "title": "تفاصيل بسيطة\nفرق كبير",
+      "caption": "خطوط ناعمة ولون دافئ يشبهك.",
+      "image": "assets/mug-2.svg"
+    },
+    {
+      "id": "closing",
+      "script": "اختر لحظتك، وخل صباحك على ذوقك.",
+      "title": "خلي صباحك\nعلى ذوقك",
+      "caption": "تصور إعلاني لمنتج خيالي.",
+      "image": "assets/mug-3.svg"
+    }
+  ],
+  "notice": "LUMA / FICTIONAL AD CONCEPT"
+}

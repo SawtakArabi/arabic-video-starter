@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800">
+  <title>Illustrated fictional low-rise home exterior</title>
+  <rect width="1000" height="800" fill="#E8DFCD"/>
+  <circle cx="790" cy="160" r="87" fill="#D2B47E"/>
+  <path d="M0 670Q280 550 560 655T1000 610V800H0Z" fill="#C9BDA5"/>
+  <rect x="200" y="275" width="595" height="320" fill="#F8F3E9"/>
+  <rect x="160" y="250" width="675" height="35" fill="#B5986E"/>
+  <rect x="555" y="355" width="166" height="240" fill="#94642C"/>
+  <rect x="580" y="380" width="116" height="215" fill="#343D3A"/>
+  <circle cx="680" cy="500" r="6" fill="#D2B47E"/>
+  <rect x="260" y="350" width="220" height="150" fill="#343D3A"/>
+  <path d="M333 350V500M407 350V500M260 425H480" stroke="#B5986E" stroke-width="9"/>
+  <path d="M570 595L490 770H880L710 595Z" fill="#F2EADD"/>
+  <path d="M143 585V318" stroke="#665D45" stroke-width="20"/>
+  <g fill="#617360"><ellipse cx="130" cy="326" rx="105" ry="35" transform="rotate(-25 130 326)"/><ellipse cx="169" cy="299" rx="100" ry="35" transform="rotate(27 169 299)"/></g>
+  <rect x="762" y="520" width="84" height="78" rx="8" fill="#B5986E"/>
+  <path d="M804 520V416M804 482L773 444M804 466L836 431" stroke="#617360" stroke-width="14" stroke-linecap="round"/>
+</svg>
